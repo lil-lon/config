@@ -2,13 +2,13 @@
 "~/.config/mise" = { source = "../mise", mode = "symlink-each" }
 
 [tools]
-"aqua:ogulcancelik/herdr" = "v0.9.0"
+"aqua:ogulcancelik/herdr" = "v0.9.3"
 
-"aqua:anthropics/claude-code" = "v2.1.275"
-"aqua:openai/codex" = "v0.155.0"
-"aqua:neovim/neovim" = "0.12.1"
+"aqua:anthropics/claude-code" = "v2.1.287"
+"aqua:openai/codex" = "v0.160.0"
+"aqua:neovim/neovim" = "0.12.5"
 
-"aqua:j178/prek" = "0.5.3"
+"aqua:j178/prek" = "0.5.4"
 
 [settings]
 minimum_release_age = "7d"
