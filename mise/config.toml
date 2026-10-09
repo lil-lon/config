@@ -9,3 +9,6 @@
 "aqua:neovim/neovim" = "0.12.1"
 
 "aqua:j178/prek" = "0.5.3"
+
+[settings]
+minimum_release_age = "7d"
