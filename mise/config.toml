@@ -4,7 +4,7 @@
 [tools]
 "aqua:ogulcancelik/herdr" = "v0.9.3"
 
-"aqua:anthropics/claude-code" = "v2.1.287"
+"aqua:anthropics/claude-code" = "v2.1.288"
 "aqua:openai/codex" = "v0.160.0"
 "aqua:neovim/neovim" = "0.12.5"
 
