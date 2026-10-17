@@ -4,9 +4,9 @@
 [tools]
 "aqua:ogulcancelik/herdr" = "v0.9.3"
 
-"aqua:anthropics/claude-code" = "v2.1.295"
-"aqua:openai/codex" = "v0.162.0"
-"aqua:neovim/neovim" = "0.12.5"
+"aqua:anthropics/claude-code" = "v2.1.296"
+"aqua:openai/codex" = "v0.162.1"
+"aqua:neovim/neovim" = "0.12.6"
 
 "aqua:j178/prek" = "0.5.5"
 
