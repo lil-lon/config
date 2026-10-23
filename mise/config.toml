@@ -3,6 +3,8 @@
 
 [tools]
 "aqua:ogulcancelik/herdr" = "v0.9.5"
+"aqua:cli/cli" = "v2.102.1"
+"aqua:BurntSushi/ripgrep" = "15.2.0"
 
 "aqua:anthropics/claude-code" = "v2.1.301"
 "aqua:openai/codex" = "v0.163.0"
