@@ -3,14 +3,14 @@
 
 [tools]
 "aqua:ogulcancelik/herdr" = "v0.9.5"
-"aqua:cli/cli" = "v2.102.1"
+"aqua:cli/cli" = "v2.103.2"
 "aqua:BurntSushi/ripgrep" = "15.2.0"
 
-"aqua:anthropics/claude-code" = "v2.1.301"
-"aqua:openai/codex" = "v0.163.0"
+"aqua:anthropics/claude-code" = "v2.1.310"
+"aqua:openai/codex" = "v0.164.0"
 "aqua:neovim/neovim" = "0.12.6"
 
-"aqua:j178/prek" = "0.5.5"
+"aqua:j178/prek" = "0.5.7"
 
 [settings]
 minimum_release_age = "7d"
