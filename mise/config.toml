@@ -3,11 +3,11 @@
 
 [tools]
 "aqua:ogulcancelik/herdr" = "v0.9.5"
-"aqua:cli/cli" = "v2.104.0"
+"aqua:cli/cli" = "v2.105.0"
 "aqua:BurntSushi/ripgrep" = "15.2.0"
 
-"aqua:anthropics/claude-code" = "v2.1.326"
-"aqua:openai/codex" = "v0.169.0"
+"aqua:anthropics/claude-code" = "v2.1.330"
+"aqua:openai/codex" = "v0.171.0"
 "aqua:neovim/neovim" = "0.12.6"
 
 "aqua:j178/prek" = "0.5.11"
